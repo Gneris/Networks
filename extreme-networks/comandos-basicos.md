@@ -11,8 +11,9 @@ Senha:
 Obs: A senha vem em branco por padrão, sendo assim apenas aperte ENTER.
 
 ### Para verificar informações Básicas do Switch (Arquivo de onfiguração selecionado, uptime, horário)
-
+```bash
 show switch
+```
 
 ### Exibir configuração
 
