@@ -16,12 +16,15 @@ show switch
 ```
 
 ### Exibir configuração
-
+```bash
 show configuration
-
+```
 ### Criar VLAN
-
+```bash
 create vlan "nomevlan"
+```
 
 ## Incluir porta na VLAN (Exemplo porta 1)
+```bash
 configure vlan "nomevlan" add ports 1 untagged
+```
