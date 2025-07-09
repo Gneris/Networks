@@ -1,4 +1,6 @@
-## Iniciando um Switch Extreme
+#Comandos Básicos
+
+### Iniciando um Switch Extreme
 
 Caso seja a primeira vez iniciando o switch, as credenciais de entrada serão:
 
@@ -8,15 +10,15 @@ Senha:
 
 Obs: A senha vem em branco por padrão, sendo assim apenas aperte ENTER.
 
-## Para verificar informações Básicas do Switch (Arquivo de onfiguração selecionado, uptime, horário)
+### Para verificar informações Básicas do Switch (Arquivo de onfiguração selecionado, uptime, horário)
 
 show switch
 
-## Exibir configuração
+### Exibir configuração
 
 show configuration
 
-## Criar VLAN
+### Criar VLAN
 
 create vlan "nomevlan"
 
