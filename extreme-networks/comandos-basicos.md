@@ -12,7 +12,7 @@ Obs: A senha vem em branco por padrão, sendo assim apenas aperte ENTER.
 
 show switch
 
-#Exibir configuração
+# Exibir configuração
 
 show configuration
 
@@ -20,5 +20,5 @@ show configuration
 
 create vlan "nomevlan"
 
-#Incluir porta na VLAN (Exemplo porta 1)
+# Incluir porta na VLAN (Exemplo porta 1)
 configure vlan "nomevlan" add ports 1 untagged
